@@ -160,5 +160,5 @@ Improvements and suggestions welcome. Please test thoroughly in a lab environmen
 
 ---
 
-**Author**: First American  
+**Author**: Mark Orr
 **Based on**: [Keeping Windows Store Apps Updated with Intune](https://www.oddsandendpoints.co.uk/psts/windows-updating-store-apps/) by @byteben
